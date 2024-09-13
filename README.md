@@ -50,10 +50,33 @@ I am committed to continuous learning and development in the field of software e
 
 ---
 
+
+## 🔧 **Language and tools** 
+<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452088/php.svg" alt="PHP" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="LARAVEL" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="sass" width="40" height="40"/> </a>
+<p align="center"> <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="40" height="40"/> </a>
+</p>
+
+---
+
+## 💡 **More About**
+<p >
+<img src="https://github-readme-stats.vercel.app/api?username=ESLAMELSAADANI&show_icons=true&locale=en" alt="ESLAMELSAADANI" />
+&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ESLAMELSAADANI&show_icons=true&locale=en&layout=compact" alt="ESLAMELSAADANI" />
+</p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=ESLAMELSAADANI&" alt="ESLAMELSAADANI" /></p>
+
+
+---
+
 ## 📫 **Get in Touch**
-- LinkedIn: [Eslam Elsaadany](https://www.linkedin.com/in/eslam-elsaadany-234957175/)
-- GitHub: [ESLAMELSAADANI](https://github.com/ESLAMELSAADANI)
-- Email: [eslam.saadany22@gmail.com](mailto:eslam.saadany22@gmail.com)
+<p align="left">
+-<a href="https://www.linkedin.com/in/eslam-elsaadany-234957175/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Eslam Elsaadany" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Elsaadany_1" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Elsaadany_1" height="30" width="40" /></a>
+<a href="https://leetcode.com/" target="_blank"><img align="left" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp&w=256" alt="EslamElsaadany" height="30" width="40" /></a>
+<a href="mailto:eslam.saadany22@gmail.com" target="_blank"><img align="left" src="https://www.reshot.com/preview-assets/icons/KBWMXNVG5Q/email-KBWMXNVG5Q.svg" alt="eslam.saadany22@gmail.com" height="30" width="40" /></a>
+</p>
 
 ---
 
