@@ -17,7 +17,7 @@ I'm a passionate **Backend Developer** with a focus on **Laravel** and **PHP**, 
 I'm currently:
 - Diving deeper into **C++** for system-level programming.
 - Enhancing my knowledge of **SQL** and database optimization.
-- Preparing for the **Open Source Application Development** track as part of my **IT preparation**.
+- Preparing for the **Open Source Application Development** track as part of my **ITI preparation**.
 
 ---
 
