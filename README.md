@@ -1,15 +1,18 @@
 # Hi there! 👋 I'm [ESLAM ELSAADANI]
 
-I'm a passionate **Backend Developer** with a focus on **Laravel** and **PHP**, currently expanding my skills in **C++** to improve my problem solving skills. I thrive in building robust and scalable applications, particularly API-driven systems and AI integration.
+Software Developer | Backend Enthusiast
+
+I am a graduate of the Faculty of Computers and Information at Mansoura University with a deep passion for software development, particularly in backend technologies. I have one year of experience as a PHP developer, and my graduation project, "Locus," was developed using PHP (you can find it below). Currently, I am expanding my skill set by learning the .NET track.
+
+I thrive on challenges and believe in continuous learning and self-improvement. I have a strong foundation in computer science, with experience in C++, object-oriented programming (OOP), data structures, algorithms, Java, databases, and clean code practices such as SOLID principles. Additionally, I have knowledge of design patterns and agile methodologies, and I am eager to enhance my skills by collaborating with a flexible, growth-minded team.
 
 ---
 
 ## 🔧 **Tech Stack & Skills**
-- **Languages**: PHP, C++, SQL, HTML, CSS, JAVA
-- **Frameworks**: Laravel
+- **Languages**: PHP, C++, SQL, HTML, CSS, JAVA,C#
+- **Frameworks**: Laravel,ASP.NET
 - **Tools**: Git, Githup, Docker, VSCode, Postman
-- **Databases**: MySQL
-- **AI/ML**: Experience integrating AI models and APIs into backend systems
+- **Databases**: MySQL,MS SQL SERVER
 
 ---
 
@@ -17,7 +20,7 @@ I'm a passionate **Backend Developer** with a focus on **Laravel** and **PHP**, 
 I'm currently:
 - Diving deeper into **C++** for system-level programming.
 - Enhancing my knowledge of **SQL** and database optimization.
-- Preparing for the **Open Source Application Development** track as part of my **ITI preparation**.
+- I am expanding my skill set by learning the .NET track.
 
 ---
 
