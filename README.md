@@ -12,7 +12,7 @@
 
 - 👯 Open to collaborating on innovative projects and open-source
 
-- 📫 How to reach me **eslam.elsaadany@outlook.sa**
+- 📫 How to reach me **eslamelsaadany7@outlook.com**
 
 - 🎯 My Portfolio:  <a href='https://portfolio-delta-ivory-siwfazudfq.vercel.app/' target='_blank'><img src='https://i.postimg.cc/0QdbQX3R/Icon.png' border='0' alt='Icon' height = 30 width = 30/></a>
 
